@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"gcm_id"
+			],
+			[
+				"user",
+				"userSchema"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"a",
+				"activities"
+			],
+			[
+				"fa",
+				"facebook_id"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"co",
+				"comments"
+			],
+			[
+				"fin",
+				"final_activities"
+			],
+			[
+				"act",
+				"activities"
+			],
+			[
+				"s",
+				"Schema"
+			],
+			[
+				"err",
+				"err_act"
+			],
+			[
+				"time",
+				"time_created"
+			],
+			[
+				"no",
+				"notification"
+			],
+			[
+				"noti",
+				"notifications"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"NO",
+				"NotificationSchema"
+			],
+			[
+				"param",
+				"param_search"
+			],
+			[
+				"ba",
+				"ball"
+			],
+			[
+				"tempX",
+				"tempXunits"
+			],
+			[
+				"tempRadi",
+				"tempRadians"
+			],
+			[
+				"tempRa",
+				"tempRadians"
+			],
+			[
+				"temR",
+				"tempRadious"
+			],
+			[
+				"max",
+				"maxSize"
+			],
+			[
+				"cp",
+				"cpuCount"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"final",
+				"final_activities"
+			],
+			[
+				"fina",
+				"final_activities"
+			],
+			[
+				"u",
+				"usuario"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ava",
+				"avatar_circular"
+			],
+			[
+				"imag",
+				"image_id"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"pr",
+				"privacy"
+			],
+			[
+				"re",
+				"resultSql"
+			],
+			[
+				"meta",
+				"meta_value"
+			],
+			[
+				"product",
+				"product_sku"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"avatar",
+				"avatar_circular"
+			],
+			[
+				"avata",
+				"avatar_normal"
+			],
+			[
+				"new",
+				"new_user"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"param_s",
+				"param_schema"
+			],
+			[
+				"params",
+				"param_storage"
+			],
+			[
+				"index",
+				"index_storage"
+			],
+			[
+				"creat",
+				"create_model"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pablo/jaampr-server/app.js",
+		"/Users/pablo/Downloads/google-cloud-datastore-21e029b2657ebb15fef5429c90c4315326855fd1/nodejs/demos/todos/todo.js",
+		"/Users/pablo/PicassaExample/server/app.js",
+		"/Users/pablo/chat-android-example/Server/app.js",
+		"/Users/pablo/jaampr-engine/server/main.py",
+		"/Users/pablo/nearby-people/server/app.js",
+		"/Users/pablo/jaampr-engine/server/development.ini",
+		"/Users/pablo/jaampr-engine/server/setup.py",
+		"/Users/pablo/jaampr-server/models/campaign.js",
+		"/Users/pablo/jaampr-server/models/activity.js",
+		"/Users/pablo/jaampr-server/routes/activity.js",
+		"/Users/pablo/jaampr-server/routes/login.js",
+		"/Users/pablo/jaampr-server/routes/user.js",
+		"/Users/pablo/teleton-server/app.js",
+		"/Users/pablo/jaampr-server/models/user.js",
+		"/Users/pablo/jaampr-server/index.html",
+		"/Users/pablo/jaampr-server/routes/notification.js",
+		"/Users/pablo/tuidee-web/app/controllers/home_controller.rb",
+		"/Users/pablo/tuidee-web/app/controllers/console_controller.rb",
+		"/Users/pablo/tuidee-web/config/mongo.yml",
+		"/Users/pablo/tuidee-web/app/models/user.rb",
+		"/Users/pablo/tuidee-web/app/models/storage.rb",
+		"/Users/pablo/tuidee-web/config/routes.rb",
+		"/Users/pablo/tuidee-web/app/views/layouts/_header.html.erb",
+		"/Users/pablo/tuidee-web/app/views/layouts/_footer.html.erb",
+		"/Users/pablo/tuidee-web/app/views/layouts/application.html.erb",
+		"/Users/pablo/tuidee-web/config/environment.rb",
+		"/Users/pablo/testing/app4.js",
+		"/Users/pablo/testing/app3.js",
+		"/Users/pablo/testing/app2.js",
+		"/Users/pablo/testing/app1.js",
+		"/Users/pablo/testing/index.html",
+		"/Users/pablo/testing/lib/5.2.js",
+		"/Users/pablo/testing/js/5.2.js",
+		"/Users/pablo/jaampr-server/routes/comment.js",
+		"/Users/pablo/jaampr-server/models/comment.js",
+		"/Users/pablo/jaampr-server/models/notification.js",
+		"/Volumes/Data/Documentales/Cosmos/Cosmos 11.srt",
+		"/Users/pablo/jaampr-server/gcm.js",
+		"/Users/pablo/canvas/5.2.html",
+		"/Users/pablo/canvas/js/5.2.js",
+		"/Users/pablo/jaampr-server/models/feedback.js",
+		"/Users/pablo/canvas/js/5.1.js",
+		"/Users/pablo/Documents/BabyRock/cron.php",
+		"/Users/pablo/Documents/BabyRock/cron_excel.php",
+		"/Users/pablo/canvas/5.1 - Movimiento a través de un línea recta.html",
+		"/Users/pablo/Documents/BabyRock/cron_test.php",
+		"/Users/pablo/Documents/BabyRock/log_cron.txt",
+		"/Users/pablo/Documents/BabyRock/php5.ini",
+		"/Users/pablo/Documents/BabyRock/php.ini",
+		"/Users/pablo/Documents/BabyRock/error_log",
+		"/Users/pablo/tuidee-lib/php/example.php",
+		"/Users/pablo/tuidee-lib/php/tuidee.lib.php",
+		"/Users/pablo/test_curl.php",
+		"/Users/pablo/tuidee-web/app/views/console/create_success.html.erb",
+		"/Users/pablo/tuidee-web/test/controllers/console_controller_test.rb",
+		"/Users/pablo/tuidee-web/test/controllers/home_controller_test.rb",
+		"/Users/pablo/tuidee-web/app/models/index_storage.rb",
+		"/Users/pablo/tuidee-web/app/models/schema.rb",
+		"/Users/pablo/tuidee-web/app/assets/stylesheets/application.css",
+		"/Users/pablo/tuidee-web/app/views/console/console_storages.html.erb",
+		"/Users/pablo/tuidee-server/routes/io.js",
+		"/Users/pablo/tuidee-server/app.js",
+		"/Users/pablo/tuidee-server/models/storage.js",
+		"/Users/pablo/tuidee-web/app/views/console/new.html.erb",
+		"/Users/pablo/tuidee-web/config/initializers/mongo.rb",
+		"/Users/pablo/tuidee-server/public/css/main.css",
+		"/Users/pablo/tuidee-server/public/create_success.html",
+		"/Users/pablo/tuidee-server/public/console_empty.html",
+		"/Users/pablo/tuidee-server/public/create.html",
+		"/Users/pablo/tuidee-server/views/index.jade",
+		"/Users/pablo/tuidee-server/public/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"311452101123",
+			"470214120505",
+			"470310120105",
+			"productos",
+			"time",
+			"token",
+			"nickname"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 116.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.pabloaraya.match.fragment.ThinkerFragment"
+    android:orientation="vertical">
+
+    <com.lorentzos.flingswipe.SwipeFlingAdapterView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:rotation_degrees="16"
+        app:max_visible="4"
+        app:min_adapter_stack="6"
+        android:id="@+id/frame" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_alignBottom="@+id/frame">
+
+        <com.gc.materialdesign.views.ButtonFloat
+            android:id="@+id/buttonActionNotLike"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="right"
+            android:layout_margin="16dp" />
+
+        <com.gc.materialdesign.views.ButtonFloat
+            android:id="@+id/buttonActionLike"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="32dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
